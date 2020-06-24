@@ -9,4 +9,4 @@
 [submodule "RegressionTests"]
 	path = RegressionTests
 	url = ../regression-tests.git
-	branch = master
+	branch = TNG
