@@ -1,0 +1,12 @@
+[submodule "Abstractions"]
+	path = Abstractions
+	url = ../abstractions.git
+	branch = release/6.0.0
+[submodule "Container"]
+	path = Container
+	url = ../container.git
+	branch = TNG
+[submodule "RegressionTests"]
+	path = RegressionTests
+	url = ../regression-tests.git
+	branch = master
