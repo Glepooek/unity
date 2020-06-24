@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{72897D3B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity.Container.Tests", "Container\tests\Unit\Unity.Container.Tests.csproj", "{FF77EB2D-8540-48CB-A8C8-CB8AE6B17134}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity.Regression", "RegressionTests\Unity.Regression.csproj", "{250519B6-76DE-425A-A2CE-AE1E14C483F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity.Regression.Tests", "RegressionTests\Unity.Regression.Tests.csproj", "{250519B6-76DE-425A-A2CE-AE1E14C483F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
