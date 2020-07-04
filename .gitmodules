@@ -10,3 +10,6 @@
 	path = RegressionTests
 	url = ../regression-tests.git
 	branch = master
+[submodule "Professional"]
+	path = Professional
+	url = https://github.com/unitycontainer/professional.git
