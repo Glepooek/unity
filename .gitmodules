@@ -13,3 +13,6 @@
 [submodule "Professional"]
 	path = Professional
 	url = https://github.com/unitycontainer/professional.git
+[submodule "BenchmarkTests"]
+	path = BenchmarkTests
+	url = https://github.com/unitycontainer/benchmark-tests.git

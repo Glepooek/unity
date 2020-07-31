@@ -1,0 +1,11 @@
+# Breaking changes from 4.0.1
+
+## RegisterType
+
+RegisterType does not allow null LifetimeManager in Registrations collection
+
+## RegisterInstance
+
+registration.MappedToType is Instance.GetType() instead of TypeFrom
+
+
