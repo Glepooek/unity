@@ -12,3 +12,6 @@
 [submodule "BenchmarkTests"]
 	path = BenchmarkTests
 	url = https://github.com/unitycontainer/benchmark-tests.git
+[submodule "SpecificationTests"]
+	path = SpecificationTests
+	url = https://github.com/unitycontainer/specification-tests.git
