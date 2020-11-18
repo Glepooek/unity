@@ -15,3 +15,6 @@
 [submodule "SpecificationTests"]
 	path = SpecificationTests
 	url = https://github.com/unitycontainer/specification-tests.git
+[submodule "RegressionPatternTests"]
+	path = RegressionPatternTests
+	url = https://github.com/unitycontainer/regression-resolution-tests.git
